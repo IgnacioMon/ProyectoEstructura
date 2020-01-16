@@ -36,6 +36,18 @@
 		</Unit>
 		<Unit filename="Map.h" />
 		<Unit filename="canciones.csv" />
+		<Unit filename="funciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones.h" />
+		<Unit filename="lectura.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lectura.h" />
+		<Unit filename="lista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lista.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
