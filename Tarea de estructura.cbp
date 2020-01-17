@@ -35,7 +35,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Map.h" />
-		<Unit filename="canciones.csv" />
 		<Unit filename="funciones.c">
 			<Option compilerVar="CC" />
 		</Unit>

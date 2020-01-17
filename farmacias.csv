@@ -1,17 +1,57 @@
-﻿Ahumada,1,Generica,122,143,52
-Cruz Vede,0,Generica,133,256,33
-Knop,1,Naturista,87,44,23
-Carmen,1,Economica,33,23,44
-Casa Naturista,1,Naturista,44,123,20
-Cruz Vede,1,Generica,213,26,73
-Eco,0,Economica,33,213,44
-Ahumada,0,Generica,42,53,152
-Knop,0,Naturista,107,104,53
-Carmen,0,Economica,103,123,48
-Eco,1,Economica,72,83,24
-Hahnemann,1,Naturista,213,123,32
-Mapuche Makelawen,1,Naturista,33,22,44
-Familiar La Receta,1,Economica,43,54,65
-Mapuche Makelawen,1,Naturista,65,102,144
-Hahnemann,1,Naturista,23,13,132
-Eco,1,Economica,88,73,124
+﻿Datos
+Ahumada 701,0,Generica,42,53,152
+Ibuprofeno,1,Antiinflamatorio,1470
+Ciclomex,1,Anticonceptivo,8270
+STOP
+Cruz Vede 123,0,Generica,133,256,33
+Paracetamol,1,Analgesico,2990
+Ibuprofeno,1,Antiinflamatorio,1470
+STOP
+Knop 321,1,Naturista,87,44,23
+Ciclomex,1,Anticonceptivo,8270
+Ibuprofeno,1,Antiinflamatorio,1470
+STOP
+Carmen 123,1,Economica,33,23,44
+Paracetamol,1,Analgesico,2990
+STOP
+Casa Naturista 321,1,Naturista,44,123,20
+Paracetamol,1,Analgesico,2990
+STOP
+Cruz Vede 321,1,Generica,213,26,73
+Ibuprofeno,1,Antiinflamatorio,1470
+STOP
+Eco 123,0,Economica,33,213,44
+STOP
+Ahumada 701,0,Generica,42,53,152
+STOP
+Knop 978,0,Naturista,107,104,53
+STOP
+Carmen 789,0,Economica,103,123,48
+STOP
+Eco 543,1,Economica,72,83,24
+Ibuprofeno,1,Antiinflamatorio,1470
+STOP
+Hahnemann 432,1,Naturista,213,123,32
+Paracetamol,1,Analgesico,2990
+STOP
+Mapuche Makelawen 543,1,Naturista,33,22,44
+Ibuprofeno,1,Antiinflamatorio,1470
+Paracetamol,1,Analgesico,2990
+STOP
+Familiar La Receta 432,1,Economica,43,54,65
+Ciclomex,1,Anticonceptivo,8270
+Ibuprofeno,1,Antiinflamatorio,1470
+STOP
+Mapuche Makelawen 413,1,Naturista,65,102,144
+Paracetamol,1,Analgesico,2990
+Ibuprofeno,1,Antiinflamatorio,1470
+STOP
+Hahnemann 652,1,Naturista,23,13,132
+Ibuprofeno,1,Antiinflamatorio,1470
+Ciclomex,1,Anticonceptivo,8270
+STOP
+Eco 713,1,Economica,88,73,124
+Paracetamol,1,Analgesico,2990
+Ibuprofeno,1,Antiinflamatorio,1470
+Ciclomex,1,Anticonceptivo,8270
+STOP
