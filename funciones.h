@@ -23,9 +23,21 @@ Producto* crear_producto(char*linea);
 
 Farmacia * crearFarmacia(char * linea);
 
-void cargar_datos_csv(Map* todas_farmacias,Map* farmacias_tipo);
+void cargar_datos_csv(Map* todas_farmacias,Map* farmacias_tipo,Map* all_productos, Map* productos_type,list* farmacias_coordenadas);
 
-void buscar_farmacia(Map* todas_farmacias,Map * farmacias_tipo);
+void mostrar_todos_productos_farmacia(Farmacia* farmacia);
+
+void mostrar_tipo_productos_farmacia(Farmacia* farmacia,char* tipo);
+
+void buscar_farmacia_coordenadas(list* lista_farmacias,Coordenadas* coordenadas_usuario);
+
+void buscar_farmacia(Map* todas_farmacias,Map * farmacias_tipo, list* lista_farmacias,Coordenadas* coordenadas_usuario);
+
+void agregar_farmacia(Map* todas_farmacias,Map * farmacias_tipo);
+
+void buscar_producto(Map* todas_farmacias,Map* all_productos, Map* productos_type);
+
+void exportar_datos_csv(Map* todas_farmacias);
 
 
 #endif // funciones_h

@@ -68,12 +68,13 @@
 
 1579189093 d:\users\boyka\desktop\proyecto estructuras\proyectoestructura\lectura.h
 
-1579229610 source:d:\users\boyka\desktop\proyecto estructuras\proyectoestructura\funciones.c
+1579572501 source:d:\users\boyka\desktop\proyecto estructuras\proyectoestructura\funciones.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<conio.h>
 	<ctype.h>
+	<math.h>
 	"Map.h"
 	"lista.h"
 	"funciones.h"
@@ -81,14 +82,14 @@
 
 1579189397 d:\users\boyka\desktop\proyecto estructuras\proyectoestructura\lista.h
 
-1579222294 d:\users\boyka\desktop\proyecto estructuras\proyectoestructura\funciones.h
+1579564673 d:\users\boyka\desktop\proyecto estructuras\proyectoestructura\funciones.h
 
 1579189380 source:d:\users\boyka\desktop\proyecto estructuras\proyectoestructura\lista.c
 	"lista.h"
 	<stdlib.h>
 	<assert.h>
 
-1579226357 source:d:\users\boyka\desktop\proyecto estructuras\proyectoestructura\main.c
+1579572025 source:d:\users\boyka\desktop\proyecto estructuras\proyectoestructura\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -98,4 +99,130 @@
 	"lista.h"
 	"funciones.h"
 	"lectura.h"
+
+1579189295 source:c:\users\lenovo\downloads\proyestrucfinal\proyectoestructura\lectura.c
+	"lectura.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579189093 c:\users\lenovo\downloads\proyestrucfinal\proyectoestructura\lectura.h
+
+1579189380 source:c:\users\lenovo\downloads\proyestrucfinal\proyectoestructura\lista.c
+	"lista.h"
+	<stdlib.h>
+	<assert.h>
+
+1579189397 c:\users\lenovo\downloads\proyestrucfinal\proyectoestructura\lista.h
+
+1579574585 source:c:\users\lenovo\downloads\proyestrucfinal\proyectoestructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Map.h"
+	"lista.h"
+	"funciones.h"
+	"lectura.h"
+
+1579187895 c:\users\lenovo\downloads\proyestrucfinal\proyectoestructura\map.h
+
+1579564673 c:\users\lenovo\downloads\proyestrucfinal\proyectoestructura\funciones.h
+
+1579187895 source:c:\users\lenovo\downloads\proyestrucfinal\proyectoestructura\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1579574585 source:c:\users\lenovo\downloads\proyestrucfinal\proyectoestructura\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<math.h>
+	"Map.h"
+	"lista.h"
+	"funciones.h"
+	"lectura.h"
+
+1579189295 source:d:\users\boyka\desktop\proyecto final\proyectoestructura\lectura.c
+	"lectura.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579189093 d:\users\boyka\desktop\proyecto final\proyectoestructura\lectura.h
+
+1579189380 source:d:\users\boyka\desktop\proyecto final\proyectoestructura\lista.c
+	"lista.h"
+	<stdlib.h>
+	<assert.h>
+
+1579189397 d:\users\boyka\desktop\proyecto final\proyectoestructura\lista.h
+
+1579574585 source:d:\users\boyka\desktop\proyecto final\proyectoestructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Map.h"
+	"lista.h"
+	"funciones.h"
+	"lectura.h"
+
+1579187895 d:\users\boyka\desktop\proyecto final\proyectoestructura\map.h
+
+1579564673 d:\users\boyka\desktop\proyecto final\proyectoestructura\funciones.h
+
+1579187895 source:d:\users\boyka\desktop\proyecto final\proyectoestructura\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1579189295 source:c:\users\lenovo\downloads\proyectoestructura (7)\proyectoestructura\lectura.c
+	"lectura.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579189093 c:\users\lenovo\downloads\proyectoestructura (7)\proyectoestructura\lectura.h
+
+1579189380 source:c:\users\lenovo\downloads\proyectoestructura (7)\proyectoestructura\lista.c
+	"lista.h"
+	<stdlib.h>
+	<assert.h>
+
+1579189397 c:\users\lenovo\downloads\proyectoestructura (7)\proyectoestructura\lista.h
+
+1579574585 source:c:\users\lenovo\downloads\proyectoestructura (7)\proyectoestructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"Map.h"
+	"lista.h"
+	"funciones.h"
+	"lectura.h"
+
+1579187895 c:\users\lenovo\downloads\proyectoestructura (7)\proyectoestructura\map.h
+
+1579564673 c:\users\lenovo\downloads\proyectoestructura (7)\proyectoestructura\funciones.h
+
+1579187895 source:c:\users\lenovo\downloads\proyectoestructura (7)\proyectoestructura\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
 
